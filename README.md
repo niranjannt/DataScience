@@ -1,2 +1,2 @@
 
-This is a list of my data science repo
+This is a list of my data science projects
